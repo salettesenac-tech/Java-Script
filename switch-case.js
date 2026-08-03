@@ -5,7 +5,7 @@ switch (classe) {
         console.log("Classe: Guerreiro");
         console.log("O guerreiro é um combatente corpo a corpo, especializado em força e resistência.");
         console.log("habilidades: Ataque poderoso, Defesa sólida, Fúria de batalha");
-        break;
+         break;
     case "Mago":
         console.log("Classe: Mago");
         console.log("O mago é um conjurador de feitiços, especializado em magia ofensiva e suporte.");
